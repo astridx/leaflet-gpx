@@ -1,26 +1,27 @@
 {
-  "name": "leaflet-gpx",
-  "version": "1.5.0",
-  "description": "A Leaflet plugin for showing a GPX track on a map",
+  "name": "leaflet-gpx-with-distance-points",
+  "version": "2.0.0",
+  "description": "A Leaflet plugin for showing a GPX track on a map with distance points",
   "main": "gpx.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpetazzoni/leaflet-gpx.git"
+    "url": "git+https://github.com/astridx/leaflet-gpx.git"
   },
   "keywords": [
     "leaflet",
     "gpx",
+    "distance points",
     "leaflet-gpx",
     "map",
     "gps"
   ],
-  "author": "Maxime Petazzoni <maxime.petazzoni@bulix.org> (https://www.bulix.org)",
+  "author": "Astrid Günther <info@astrid-guenther.de> (https://www.astrid-guenther.de)",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/mpetazzoni/leaflet-gpx/issues"
+    "url": "https://github.com/astridx/leaflet-gpx/issues"
   },
-  "homepage": "https://github.com/mpetazzoni/leaflet-gpx#readme"
+  "homepage": "https://github.com/astridx/leaflet-gpx#readme"
 }
